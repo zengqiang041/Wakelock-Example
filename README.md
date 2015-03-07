@@ -1,2 +1,2 @@
-# Wakelock-Example
+# Wakelock Example
 Android wakelock example
